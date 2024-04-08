@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Conestoga\\Sem-2\\Software Quality\\Assignment4\\Assignment #4 \u2013 Automation Functional Testing\\InsuranceQuotingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB612D0-0E93-4869-99EC-02ABD4446581}|InsuranceQuotingSystem.csproj|e:\\conestoga\\sem-2\\software quality\\assignment4\\assignment #4 \u2013 automation functional testing\\insurancequotingsystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB612D0-0E93-4869-99EC-02ABD4446581}|InsuranceQuotingSystem.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 325,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Conestoga\\Sem-2\\Software Quality\\Assignment4\\Assignment #4 \u2013 Automation Functional Testing\\InsuranceQuotingSystem\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "E:\\Conestoga\\Sem-2\\Software Quality\\Assignment4\\Assignment #4 \u2013 Automation Functional Testing\\InsuranceQuotingSystem\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T23:57:49.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
