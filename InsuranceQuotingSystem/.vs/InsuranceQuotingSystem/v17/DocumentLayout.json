@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Conestoga\\Sem-2\\Software Quality\\Assignment4\\Assignment #4 \u2013 Automation Functional Testing\\InsuranceQuotingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FB612D0-0E93-4869-99EC-02ABD4446581}|InsuranceQuotingSystem.csproj|e:\\conestoga\\sem-2\\software quality\\assignment4\\assignment #4 \u2013 automation functional testing\\insurancequotingsystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FB612D0-0E93-4869-99EC-02ABD4446581}|InsuranceQuotingSystem.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FB612D0-0E93-4869-99EC-02ABD4446581}|InsuranceQuotingSystemTests.csproj|e:\\conestoga\\sem-2\\software quality\\assignment4\\assignment #4 \u2013 automation functional testing\\insurancequotingsystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB612D0-0E93-4869-99EC-02ABD4446581}|InsuranceQuotingSystemTests.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Class1.cs",
               "ToolTip": "E:\\Conestoga\\Sem-2\\Software Quality\\Assignment4\\Assignment #4 \u2013 Automation Functional Testing\\InsuranceQuotingSystem\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T23:57:49.34Z",
               "EditorCaption": ""

@@ -330,16 +330,9 @@
       ],
       "value": ""
     }, {
-      "id": "affa7fb5-14c6-4816-8b9b-565d1eaf41cc",
-      "comment": "",
-      "command": "click",
-      "target": "css=.btn",
-      "targets": [],
-      "value": ""
-    }, {
       "id": "4fb2d9aa-cc1b-4235-b461-694eb1bae1c5",
       "comment": "",
-      "command": "assertText",
+      "command": "assertValue",
       "target": "id=finalQuote",
       "targets": [],
       "value": "$5500"
@@ -669,7 +662,7 @@
     }, {
       "id": "c94ecf88-814a-422b-a87d-5c1f527c6453",
       "comment": "",
-      "command": "assertText",
+      "command": "assertValue",
       "target": "id=finalQuote",
       "targets": [],
       "value": "No Insurance for you!!  Too many accidents - go take a course!"
@@ -1005,7 +998,7 @@
     }, {
       "id": "82d12716-09ee-47f9-a3da-42175c0a240d",
       "comment": "",
-      "command": "assertText",
+      "command": "assertValue",
       "target": "id=finalQuote",
       "targets": [],
       "value": "$3905"
